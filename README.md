@@ -1,4 +1,4 @@
-## Olá, mundo 👋
+## Seja bem vindo ao meu perfil! 👋
 
 <!--
 **claudio-reinaldo/claudio-reinaldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
